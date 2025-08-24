@@ -1,0 +1,17 @@
+{
+  "name": "artist2d",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "canvas"
+  ],
+  "author": "strannyi-tip",
+  "license": "LGPL-3.0-or-later",
+  "description": "Simple javascript painter",
+  "dependencies": {
+    "jest": "^30.0.5"
+  }
+}
